@@ -1,4 +1,9 @@
 use employees;
+
+
+/*Assign employee no 110022 as a manager to all employees from emp_no 10001 to 10020 and
+ employee number 110039 as a manager to all employee from 10021 to 10040*/
+
 SELECT 
     A.*
 FROM
